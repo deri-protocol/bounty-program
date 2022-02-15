@@ -1,0 +1,10 @@
+{
+  "title":"DERIエアドロップイベント",
+  "wallet-balance":"ウォレットの残高",
+  "start-time":"始まる時間",
+  "expire-time":"有効期限",
+  "no-deri-to-claim" : "主張するDERIはありません",
+  "claim-failed" : "申し立てに失敗しました",
+  "please-switch-to-BSC-to-claim-deri" : "DERIを申請するにはBSCに切り替えてください",
+  "claim":"請求"
+}

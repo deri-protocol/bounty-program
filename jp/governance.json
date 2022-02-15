@@ -1,0 +1,12 @@
+{
+  "vote-now":"今すぐ投票",
+  "closed":"閉まっている",
+  "closed-title":"クローズド投票の提案",
+  "closed-title-describe":"以下のリストは、クローズド投票の提案です。投票の詳細と結果を確認するには、クリックしてください",
+  "no-proposals-found":"提案が見つかりません",
+  "dip-list-title":"DIPはDeriProtocol ImprovementProposalの略です",
+  "dip-two":"DIP2:",
+  "dip-one":"DIP1:",
+  "dip-two-describe":"取引手数料の徴収比率を調整して、燃やされる流通市場からDERIを購入することに投票する",
+  "dip-one-describe":"次のいずれかのオプションに投票してください: 一. DERI保有者と取引手数料を共有する. 二. 取引手数料収入でDERIを買い戻す. 三. 現状を維持する"
+}
