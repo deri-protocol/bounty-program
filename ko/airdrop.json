@@ -1,0 +1,10 @@
+{
+  "title": "데리 에어드랍 이벤트",
+  "wallet-balance": "월렛 잔액",
+  "start-time": "시작 시간",
+  "expire-time": "만료 시간",
+  "no-deri-to-claim": "청구할 DERI 없음",
+  "claim-failed": "클레임 실패",
+  "please-switch-to-BSC-to-claim-deri": "DERI를 청구하려면 BSC로 전환하십시오.",
+  "claim": "클레임"
+}
