@@ -1,0 +1,10 @@
+{
+  "title": "Событие DERI AirDrop",
+  "wallet-balance": "Баланс кошелька",
+  "start-time": "Время начала",
+  "expire-time": "Время истечения срока действия",
+  "no-deri-to-claim": "Нет DERI для запроса",
+  "claim-failed": "Претензия отклонена",
+  "please-switch-to-BSC-to-claim-deri": "Переключитесь на BSC, чтобы запросить DERI",
+  "claim": "ПРЕТЕНЗИЯ"
+}

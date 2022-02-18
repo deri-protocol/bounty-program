@@ -1,0 +1,10 @@
+{
+  "title": "Sự kiện DERI Airdrop",
+  "wallet-balance": "Số dư ví",
+  "start-time": "Thời gian bắt đầu",
+  "expire-time": "Thời gian hết hạn",
+  "no-deri-to-claim": "Không có DERI có sẵn để yêu cầu",
+  "claim-failed": "Yêu cầu không thành công",
+  "please-switch-to-BSC-to-claim-deri": "Vui lòng chuyển sang BSC để yêu cầu DERI",
+  "claim": "yêu cầu"
+}
