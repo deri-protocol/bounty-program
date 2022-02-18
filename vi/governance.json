@@ -1,0 +1,12 @@
+{
+  "vote-now": "VOTE NOW",
+  "closed": "CLOSED",
+  "closed-title": "Các Đề Xuất Bỏ Phiếu Đã Đóng",
+  "closed-title-describe": "Danh sách sau đây là các đề xuất bỏ phiếu kín. Vui lòng nhấp vào để kiểm tra chi tiết và kết quả bỏ phiếu.",
+  "no-proposals-found": "Không tìm thấy đề xuất",
+  "dip-list-title": "DIP là viết tắt của Deri giao thức cải thiện đề xuất.",
+  "dip-two": "DIP2:",
+  "dip-one": "DIP1:",
+  "dip-two-describe": "Bỏ phiếu điều chỉnh tỷ lệ thu phí giao dịch để mua DERI từ thị trường thứ cấp sẽ bị đốt cháy.",
+  "dip-one-describe": "Vui lòng bỏ phiếu cho một trong các tùy chọn sau: I. phí giao dịch chia sẻ với chủ sở hữu DERI. II. Mua lại DERI với thu nhập phí giao dịch. III. Giữ nguyên trạng"
+}
