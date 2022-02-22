@@ -1,0 +1,10 @@
+{
+  "title": "Événement DERI AirDrop",
+  "wallet-balance": "Solde du portefeuille",
+  "start-time": "Heure de début",
+  "expire-time": "date d'expiration",
+  "no-deri-to-claim": "Pas de DERI à réclamer",
+  "claim-failed": "Échec de la réclamation",
+  "please-switch-to-BSC-to-claim-deri": "Veuillez passer à BSC pour réclamer DERI",
+  "claim": "RÉCLAMER"
+}

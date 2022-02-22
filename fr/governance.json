@@ -1,0 +1,12 @@
+{
+  "vote-now": "VOTEZ MAINTENANT",
+  "closed": "FERMÉ",
+  "closed-title": "Propositions de vote fermées",
+  "closed-title-describe": "Les listes suivantes sont des propositions de vote fermées. Veuillez cliquer pour vérifier les détails et les résultats du vote.",
+  "no-proposals-found": "Aucune proposition trouvée",
+  "dip-list-title": "DIP signifie Proposition d'amélioration du protocole Deri.",
+  "dip-two": "DIP2 :",
+  "dip-one": "DIP1 :",
+  "dip-two-describe": "Votez pour ajuster le ratio de collecte des frais de transaction pour acheter le DERI sur le marché secondaire à brûler.",
+  "dip-one-describe": "Veuillez voter pour l'une des options suivantes : I. Partager les frais de transaction avec les détenteurs de DERI. II. Rachetez DERI avec des revenus de frais de transaction. III. Gardez le statu quo"
+}
