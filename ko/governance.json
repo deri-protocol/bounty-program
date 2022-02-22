@@ -1,0 +1,12 @@
+{
+  "vote-now": "지금 투표",
+  "closed": "닫혔습니다",
+  "closed-title": "비공개 투표 제안",
+  "closed-title-describe": "다음 목록은 비공개 투표 제안입니다.투표 세부 사항 및 결과를 확인하려면 클릭하십시오.",
+  "no-proposals-found": "제안을 찾을 수 없음",
+  "dip-list-title": "DIP 는 데리 프로토콜 개선 제안 를 의미합니다.",
+  "dip-two": "딥2:",
+  "dip-one": "딥1:",
+  "dip-two-describe": "소각 할 유통 시장에서 DERI를 구매하기 위해 거래 수수료 징수 비율을 조정하는 데 투표하십시오.",
+  "dip-one-describe": "다음 옵션 중 하나에 투표하십시오. I. DERI 보유자와 거래 수수료를 공유하십시오.II.거래 수수료 수입으로 DERI를 다시 구매하십시오.III.현상 유지"
+}
