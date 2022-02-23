@@ -1,0 +1,10 @@
+{
+  "title":"DERI AirDrop Event",
+  "wallet-balance":"Wallet Balance",
+  "start-time":"Start Time",
+  "expire-time":"Expire Time",
+  "no-deri-to-claim" : "No DERI to claim",
+  "claim-failed" : "Claim failed",
+  "please-switch-to-BSC-to-claim-deri" : "Please switch to BSC to claim DERI",
+  "claim":"CLAIM"
+}

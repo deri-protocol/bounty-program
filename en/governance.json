@@ -1,0 +1,12 @@
+{
+  "vote-now":"VOTE NOW",
+  "closed":"CLOSED",
+  "closed-title":"Closed Voting Proposals",
+  "closed-title-describe":"Following lists are closed voting proposals. Please click to check the voting  details and results.",
+  "no-proposals-found":"No proposals found",
+  "dip-list-title":"DIP stands for Deri Protocol Improvement Proposal.",
+  "dip-two":"DIP2:",
+  "dip-one":"DIP1:",
+  "dip-two-describe":"Vote for adjusting the transaction fee collection ratio to buy DERI from the secondary market to be burned.",
+  "dip-one-describe":"Please vote for one of the following options: I. Share transaction fee with the DERI holders. II. Buy back DERI with transaction fee income. III. Keep the status quo"
+}
