@@ -1,13 +1,13 @@
 {
-  "practice-to-earn":"Practice to Earn ONTO Wallet",
-  "detailed-rules":"Detailed Rules",
-  "time":"From 10:00:00 AM, January 27th 2022 to 09:59:59 AM, February 10th, 2022 UTC",
-  "total-rewards-pool":"TOTAL REWARDS POOL",
-  "top-pnl":"Leadboard",
-  "your-pnl":"Your PnL% ",
-  "your-pnl-tip":"P&L Percentage(%) = (Dynamic Effective Balance / Margin) - 1 <br> Dynamic Effective Balance: The trader’s total dynamic effective balance in all markets at the end of the game <br> Margin: Sum of all the margins added during the game + The existing margin balance at 10:00 AM Jan 27th, 2022. Notably, withdraw margin will lower your P&L percentage.",
+  "practice-to-earn":"Practíca para ganar Billetera ONTO",
+  "detailed-rules":"Reglas detalladas",
+  "time":"Desde las 10:00:00 a. m. del 27 de enero de 2022 hasta las 09:59:59 a. m. del 10 de febrero de 2022 UTC",
+  "total-rewards-pool":"POOL TOTAL DE RECOMPENSAS",
+  "top-pnl":"Tabla de clasificación",
+  "your-pnl":"Su PnL% ",
+  "your-pnl-tip":"Porcentaje(%) P&L = (Saldo dinámico efectivo / Margen) - 1 <br> Saldo efectivo dinámico: el saldo efectivo dinámico total del comerciante en todos los mercados al final del juego <br> Margen: la suma de todos los márgenes agregados durante el juego + el saldo de margen existente a las 10:00 a. m. del 27 de enero de 2022. En particular, el margen de retiro reducirá su porcentaje de pérdidas y ganancias.",
   "no":"No.",
-  "user-addr":"User Addr.",
+  "user-addr":"Dirección del usuario.",
   "pnl":"PnL%",
-  "update-every-hour" : "Update every hour"
+  "update-every-hour" : "Actualizar cada hora"
 }
