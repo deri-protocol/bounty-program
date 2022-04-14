@@ -1,10 +1,10 @@
 {
-  "title":"DERI AirDrop Event",
-  "wallet-balance":"Wallet Balance",
-  "start-time":"Start Time",
-  "expire-time":"Expire Time",
-  "no-deri-to-claim" : "No DERI to claim",
-  "claim-failed" : "Claim failed",
-  "please-switch-to-BSC-to-claim-deri" : "Please switch to BNB Chain to claim DERI",
-  "claim":"CLAIM"
+  "title":"Evento Airdrop de DERI",
+  "wallet-balance":"Saldo de Billetera",
+  "start-time":"Tiempo de Inicio",
+  "expire-time":"Tiempo de Expiración",
+  "no-deri-to-claim" : "Sin DERI para reclamar",
+  "claim-failed" : "Reclamo fallido",
+  "please-switch-to-BSC-to-claim-deri" : "Por favor, cambia a BNB Chain para reclamar DERI",
+  "claim":"RECLAMAR"
 }
