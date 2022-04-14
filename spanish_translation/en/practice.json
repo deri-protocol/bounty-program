@@ -1,13 +1,13 @@
 {
-  "practice-to-earn":"Practíca para ganar Billetera ONTO",
-  "detailed-rules":"Reglas detalladas",
+  "practice-to-earn":"Practica para Ganar en tu Billetera",
+  "detailed-rules":"Reglas Detalladas",
   "time":"Desde las 10:00:00 a. m. del 27 de enero de 2022 hasta las 09:59:59 a. m. del 10 de febrero de 2022 UTC",
   "total-rewards-pool":"POOL TOTAL DE RECOMPENSAS",
   "top-pnl":"Tabla de clasificación",
   "your-pnl":"Su PnL% ",
   "your-pnl-tip":"Porcentaje(%) P&L = (Saldo dinámico efectivo / Margen) - 1 <br> Saldo efectivo dinámico: el saldo efectivo dinámico total del comerciante en todos los mercados al final del juego <br> Margen: la suma de todos los márgenes agregados durante el juego + el saldo de margen existente a las 10:00 a. m. del 27 de enero de 2022. En particular, el margen de retiro reducirá su porcentaje de pérdidas y ganancias.",
   "no":"No.",
-  "user-addr":"Dirección del usuario.",
+  "user-addr":"Dirección del usuar.",
   "pnl":"PnL%",
   "update-every-hour" : "Actualizar cada hora"
 }
