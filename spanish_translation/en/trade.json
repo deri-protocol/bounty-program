@@ -61,7 +61,7 @@
 	"funding-rate-per-block": "Tasa de financiación (por bloque)",
 	"funding-rate-per-second": "Tasa de financiación (por segundo)",
 	"1-long-contract-pays-1-short-contract": "1 contrato largo (Nocional = 1 ${unidad}) paga 1 contrato corto",
-	"trades": "Tradeos",
+	"trades": "Operaciones",
 	"size": "Tamaño (BTC)",
 	"account": "Cuenta",
 	"wallet-balance": "Saldo Billetera",
