@@ -18,7 +18,7 @@
   "leading":"LIDERANDO",
   "dip":"DIP",
   "dip-one-des":"Introduzca comisión de transacción a la compra de nuevo (buy back) a los poseedores de DERI",
-  "dip-two-des":"Vote for adjusting the transaction fee collection ratio to buy DERI from the secondary market to be burned.",
+  "dip-two-des":"Vota para ajustar la proporción de comisión de colección por transacción para comprar DERI de un mercado secundario para que sea quemado (burned).",
   "leading-option":"Opción Lider:",
   "dip-leading-option":" con ${value} de apoyo DERI  ",
   "dip-two-winner":" 80%",
