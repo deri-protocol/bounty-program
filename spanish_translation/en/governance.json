@@ -1,10 +1,10 @@
 {
   "title":"GOVERNANCE",
-  "description":"Description",
+  "description":"Descripción",
   "governance-des":"Join a decentralized community protecting the integrity of the Deri Protocol through discussion and on-chain voting.",
   "active-pool-votes":"ACTIVE POLL VOTES",
   "active-esectutive-votes":"ACTIVE EXECTUTIVE VOTES",
-  "how-to-participate":"HOW TO PARTICIPATE",
+  "how-to-participate":"COMO PARTICIPAR",
   "governance-discussion":"Governance Discussion",
   "poll-votes":"Poll Votes",
   "executive-votes":"Executive Votes",
@@ -12,7 +12,7 @@
   "executive-votes-hover":"Executive Votes execute technical changes to the Deri Protocol. When active, each Executive Vote has a proposed set of changes being made on the Deri Protocol's smart-contracts. Executive Votes is accessed and conducted in this page.",
   "governance-discussion-hover":"Get the latest updates and take part in current governance discussions in our Discord channel.",
   "executive-votes-l":"EXECUTIVE VOTES",
-  "in-progress":"IN PROGRESS",
+  "in-progress":"EN PROGRESO",
   "executed":"EXECUTED",
   "status-quo":"STATUS QUO",
   "leading":"LEADING",
@@ -25,5 +25,5 @@
   "dip-one-winner":" Buy back DERI with transaction fee income",
   "dip-one-time":"2021 March 19th 4:00:00AM UTC",
   "dip-two-time":"2021 Oct 28th 10:00:00AM UTC",
-  "more":"MORE"
+  "more":"MÁS"
 }
