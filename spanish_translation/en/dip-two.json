@@ -29,5 +29,5 @@
   "vote-rules-one-describe-four":"the corresponding DERI amount of your DLT balance in the DERI-based Inno Zone pools (BNB Chain and Polygon).",
   "vote-rules-two":"Puede elegir algunos de los 4 chains (ETH/BNB Chain/Polygon/HECO) para firmar su voto hasta el tiempo raya",
   "vote-rules-three":" Tiempo Raya de Votación = 21 de Octubre 2021 10:00:00AM UTC ",
-  "vote-rules-four":"Una toma sera llevada en el bloque, en el tiempo raya, y sera usado para calcular los resultados. Por favor tenga en cuenta que, si usted ha votado antes del tiempo raya pero luego ha transferido su DERI, SLP, PANCAKE-LP, o DLT antes del tiempo raya, sera el saldo en el tiempo raya el que cuente."
+  "vote-rules-four":"Una toma instanea del chain (snapshot) sera llevada en el bloque, en el tiempo raya, y sera usado para calcular los resultados. Por favor tenga en cuenta que, si usted ha votado antes del tiempo raya pero luego ha transferido su DERI, SLP, PANCAKE-LP, o DLT antes del tiempo raya, sera el saldo en el tiempo raya el que cuente."
 }
