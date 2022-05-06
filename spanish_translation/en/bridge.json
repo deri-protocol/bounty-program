@@ -27,7 +27,7 @@
   "this-step-do-not-close":"Este paso toma unos 10 minutos o más. No cierre la pagina...",
   "waiting-for-bridge-to-sign":"Esperando la firma de la transacción puente ...",
   "bridge-signed":"Transacción de puente firmada.",
-  "send-finished-one":"Porfavor cambie la red de su cartera a",
+  "send-finished-one":"Por favor cambie la red de su cartera a",
   "send-finished-two":"para canjear su DERI.",
   "claim-deri-ing":"Canjeando DERI ...",
   "waiting-for-bridge-to-sync":"Esperando que el puente sincronize ..",
