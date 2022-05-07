@@ -22,11 +22,11 @@
   "your-voting-power":"Su poder de votación",
   "voting-rules":"Reglas",
   "please-choose-your-vote-first":"Por favor seleccione una opción",
-  "vote-rules-one":" Your voting power is the summation of the following balances in your wallet as of the deadline:",
+  "vote-rules-one":" Su poder de voto es la suma de los siguientes saldos en su cartera en el tiempo raya:",
   "vote-rules-one-describe-one":"Saldo DERI",
   "vote-rules-one-describe-two":"El correspondiente monto DERI de su saldo de tokens de liquidez DERI-USDT en SushiSwap",
   "vote-rules-one-describe-three":"El correspondiente monto DERI de su saldo posiciónado de DERI-BUSD CLP en PancakeSwap",
-  "vote-rules-one-describe-four":"the corresponding DERI amount of your DLT balance in the DERI-based Inno Zone pools (BNB Chain and Polygon).",
+  "vote-rules-one-describe-four":"El monto correspondiente DERI de su saldo DLT en la zona de la piscina basada-en-DERI-based Inno BNB Chain and Polygon).",
   "vote-rules-two":"Puede elegir algunos de los 4 chains (ETH/BNB Chain/Polygon/HECO) para firmar su voto hasta el tiempo raya",
   "vote-rules-three":" Tiempo Raya de Votación = 21 de Octubre 2021 10:00:00AM UTC ",
   "vote-rules-four":"Una toma instanea del chain (snapshot) sera llevada en el bloque, en el tiempo raya, y sera usado para calcular los resultados. Por favor tenga en cuenta que, si usted ha votado antes del tiempo raya pero luego ha transferido su DERI, SLP, PANCAKE-LP, o DLT antes del tiempo raya, sera el saldo en el tiempo raya el que cuente."

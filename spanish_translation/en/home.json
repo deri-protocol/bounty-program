@@ -20,7 +20,7 @@
 	"arbitragers-describe": "balancea los dos lados de las posiciones en largo y corto inducido por el arbitraje de la marca-indice de diferencia de precio o la comisión de financiamiento.",
 	"how-to-start-trading": "COMO COMENZAR A OPERAR",
 	"step-connect-wallet": "PASO 1 - Conectar Cartera",
-	"step-connect-wallet-describe": "Conectar su cartera con un click sin registrarse o intermediarios. Deri Protocol opera en BNB Chain/Polygon redes; deposita algo BNB/MATIC en tu cartera para empezar.",
+	"step-connect-wallet-describe": "Conectar su cartera con un click sin registro o intermediarios. Deri Protocol opera en BNB Chain/Polygon redes; deposita algo BNB/MATIC en tu cartera para empezar.",
 	"step-deposit-margin": "PASO 2 - Depositar Márgen",
 	"step-deposit-margin-describe": "Depositar margen en su cuenta enviando fondos en uno o más de las monedas aceptadas. Su fondo de márgen es seguro y transaparente en un contrato inteligente en la red blockchain.",
 	"step-trade-derivatives": "STEP 3 - Intercambia Derivados",
