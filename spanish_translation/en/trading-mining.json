@@ -1,6 +1,6 @@
 {
   "title":"Opere para Ganar",
-  "activity-start-countdown":"Activity Start Countdown",
+  "activity-start-countdown":"Tiempo Restante para el comienzo de Actividad",
   "time-remaining":"Tiempo para Empezar",
   "rewards":"Recompensas",
   "days":"Dias",
@@ -11,7 +11,7 @@
   "claimed-deri":"DERI Canjeado",
   "lcked-deri":"DERI Bloqueado",
   "claimable-deri":"DERI Disponible para Reclamar",
-  "pending":"PENDING",
+  "pending":"PENDIENTE",
   "claim":"RECLAMAR",
   "top-ten-transaction-sharing-pool":"10 Mejores Transacciones de la Equidad de Piscina",
   "transaction-sharing-pool":"Piscina de Recompensas",
